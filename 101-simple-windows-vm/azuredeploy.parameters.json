@@ -3,17 +3,24 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "myStorageAccount"
+      "value": "mtstore1"
     },
     "adminUsername": {
       "value": "admin123"
     },
     "adminPassword": {
-      "value": "ADmin123_!"
+      "value": "Password01"
     },
     "dnsNameForPublicIP": {
-      "value": "myDnsName"
+      "value": "mt48596"
+    },
+    "location": {
+      "value": "West US"
+    },
+    "sizeofDiskInGB": {
+      "value": "20"
+      }
     }
   }
-}
+
 
