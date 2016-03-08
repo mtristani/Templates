@@ -1,0 +1,2 @@
+# Templates
+Azure day creation
